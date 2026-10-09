@@ -1,0 +1,6 @@
+{
+  "name": "Nikhil Talks",
+  "description": "Government jobs, notices, scholarships, sarkari yojna updates, and student marketplace.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
